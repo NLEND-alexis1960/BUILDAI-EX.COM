@@ -1,0 +1,23 @@
+{
+  "name": "buildai-ex-com",
+  "version": "1.0.0",
+  "description": "IA pour tous ceux qui veulent utiliser l'IA pour construire et deployer leurs sites en ligne et les applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NLEND-alexis1960/BUILDAI-EX.COM.git"
+  },
+  "keywords": ["vercel", "speed-insights", "ai"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NLEND-alexis1960/BUILDAI-EX.COM/issues"
+  },
+  "homepage": "https://github.com/NLEND-alexis1960/BUILDAI-EX.COM#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
